@@ -79,3 +79,4 @@ git clone https://github.com/your-org/reelrocket.git
 cd reelrocket
 npm install
 # reelrocket-ai-product-case-study
+# reelrocket-ai-product-case-study
